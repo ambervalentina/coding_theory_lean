@@ -1,0 +1,3 @@
+# Coding thoery
+- draft: linear code, coding distance, parity-check matrix,...
+- in progress: cyclic code
